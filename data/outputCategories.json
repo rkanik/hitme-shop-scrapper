@@ -1,0 +1,1621 @@
+[
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Samsung",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Xiaomi",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Huawei",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Honor",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Lenovo",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Iphone",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Oppo",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Vivo",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Asus",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Nokia",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "One Plus",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "HTC",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "LG",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Symphony",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Walton",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Mobile",
+      "cat": "Meizu",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Razer",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Apple",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Asus",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Acer",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Dell",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "HP",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Lenovo",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "Microsoft",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "iLife",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Laptops and Notebooks",
+      "cat": "MSI",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Camera",
+      "cat": "DSLR",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Camera",
+      "cat": "Video Camera",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Camera",
+      "cat": "Camera Lenses",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Desktop Casing ",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Processor",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Ram",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Power Supply",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Cpu Cooler",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "SSD",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Hard Disk Drive",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Monitor",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Ups",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Printer",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Computers Components",
+      "cat": "Scanner",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Gaming & Console",
+      "cat": "PlayStation",
+      "keywords": [
+         "PlayStation ",
+         "XBox",
+         "PlayStation Games",
+         "XBox Games",
+         "Other Consoles"
+      ]
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Gaming & Console",
+      "cat": "XBox",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Gaming & Console",
+      "cat": "PlayStation Games",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Gaming & Console",
+      "cat": "XBox Games",
+      "keywords": []
+   },
+   {
+      "mCat": "Electronics",
+      "sCat": "Gaming & Console",
+      "cat": "Other Consoles",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shirts",
+      "cat": "Full Sleeve",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shirts",
+      "cat": "Half Sleeve",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shirts",
+      "cat": "Denim Shirt",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shirts",
+      "cat": "Formal",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shirts",
+      "cat": "Casual",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "T-Shirts",
+      "cat": "Solid Color",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "T-Shirts",
+      "cat": "Unique Collection",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "T-Shirts",
+      "cat": "TextDesign",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "T-Shirts",
+      "cat": "Thematic",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Pants",
+      "cat": "Jeans",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Pants",
+      "cat": "Twill/Gabardine",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Pants",
+      "cat": "Formal",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Pants",
+      "cat": "Chinos",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Pants",
+      "cat": "Cargo & Shorts",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Polo-Shirts",
+      "cat": "Solid Color",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Polo-Shirts",
+      "cat": "Multicolor",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Punjabi",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Suits & Blazer",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shoes",
+      "cat": "Sneakers",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shoes",
+      "cat": "Sandals",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shoes",
+      "cat": "Formal Shoes",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shoes",
+      "cat": "Boots",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Shoes",
+      "cat": "Slip-Ons & Loafers",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Winter Clothing",
+      "cat": "Full Sleeve t-shirt",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Winter Clothing",
+      "cat": "Jacket",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Winter Clothing",
+      "cat": "Hoodie",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Winter Clothing",
+      "cat": "Others",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Metal Chain Watch",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Leather Strap",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Original Brand Watch",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Sports Watch",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Glass",
+      "keywords": []
+   },
+   {
+      "mCat": "Men's Fashion",
+      "sCat": "Watch, Glass & Belt",
+      "cat": "Belts",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sharee",
+      "cat": "Cotton",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sharee",
+      "cat": "Hand Painted",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sharee",
+      "cat": "Boishakhai Saree",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sharee",
+      "cat": "Taant",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Salwar Kamiz",
+      "cat": "Unstitched",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Salwar Kamiz",
+      "cat": "Readymade",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Salwar Kamiz",
+      "cat": "Deshi Boutique",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Salwar Kamiz",
+      "cat": "Lawn",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Kurti",
+      "cat": "Long Kurti",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Kurti",
+      "cat": "Short Kurti",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Kurti",
+      "cat": "Kurti with Leggings Palazzo",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Wedding Wears",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Wedding Wears",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Wedding Wears",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Wedding Wears",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Shoes",
+      "cat": "Flat Sandals",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Shoes",
+      "cat": " Heels",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Shoes",
+      "cat": "Flat Shoes",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Shoes",
+      "cat": "Wedges ",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Watches & Glasses",
+      "cat": "Casual",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Watches & Glasses",
+      "cat": "Business",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Watches & Glasses",
+      "cat": "Fashion",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Accessories",
+      "cat": "Jewelleries",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Accessories",
+      "cat": "Belts",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Accessories",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Accessories",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Bag",
+      "cat": "Vanity Bag",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Bag",
+      "cat": "Purse",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Bag",
+      "cat": "Party Bag",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Bag",
+      "cat": "Leather Bag",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sleep and Longue",
+      "cat": "Bras",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sleep and Longue",
+      "cat": "  Panties",
+      "keywords": []
+   },
+   {
+      "mCat": "Women's Fashion",
+      "sCat": "Sleep and Longue",
+      "cat": "Lingerie Sets",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Televisions",
+      "cat": "LEd",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Televisions",
+      "cat": "Smart TV",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Televisions",
+      "cat": "OLED",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Refrigerators",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Freezers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Washing Machine",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Microwave Oven",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Fan & Lights",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Water Purifiers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Electronics Appliances",
+      "cat": "Air Purifiers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Rice Cooker",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Blenders",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Electric Kettle",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Induction Cooker/Fryer",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Cookware set",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Oven",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Pressure Cooker",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Coffee machine",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Toaster",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen Appliances",
+      "cat": "Sandwich Maker",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Almirah",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Bed",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Showcase",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Dressing Table",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Wardrobe",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Furniture's",
+      "cat": "Office/Other",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Essentials",
+      "cat": "Mosquito Net",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Essentials",
+      "cat": "Sewing kit",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Essentials",
+      "cat": "Iron Table",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Essentials",
+      "cat": "Portable Cloth Storage",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Essentials",
+      "cat": "Box/Basket",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Water Pump",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Cleaning Machine",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Hosepipe",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Insect Repellent",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Multi-function Tool",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Tools & Machinery",
+      "cat": "Drill Machine (Heavy)",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Bed Sheet & Cover",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Pillow & Cushion",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Carpet",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Wall Hanging",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Painting",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Decoration Lamp & Shade",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Flower Vase",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Home Decor",
+      "cat": "Wall/ Designed Mirror",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "  Storage & Organisation",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "Coffee & Tea",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "Cookware",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "Dinnerware",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "Kitchen & Table Linen",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": " Kitchen Storage & Accessories",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Kitchen & Dining",
+      "cat": "Serveware",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Laundry & Cleaning",
+      "cat": "Brushes, Sponges & Wipers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Laundry & Cleaning",
+      "cat": "Brooms, Mops & Sweepers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Laundry & Cleaning",
+      "cat": "Clothes Line & Drying Racks",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Laundry & Cleaning",
+      "cat": "Laundry Baskets & Hampers",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Laundry & Cleaning",
+      "cat": "Ironing Boards",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Gifts & Wrapping",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Packaging & Cartons",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Paper Products",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "School & Office Equipment",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Art Supplies",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Craft Supplies",
+      "keywords": []
+   },
+   {
+      "mCat": "Home Appliances",
+      "sCat": "Stationary & Crafts",
+      "cat": "Religious Items",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Body & Massage Oils",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Body Moisturizers",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Body Scrubs",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Body Soaps & Shower Gels",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Foot Care",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Hair Removal",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": " Hand Care",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Sun Care for Body",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "Bath & Body Accessories",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Bath and Beauty",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Hair care",
+      "cat": "Shampoo & Conditioner",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Hair care",
+      "cat": "Hair Treatments",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Hair care",
+      "cat": "Hair Care Accessories",
+      "keywords": [
+         "Hair Brushes & Combs"
+      ]
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Hair care",
+      "cat": "Hair Color/Gel/Spray ",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Hair care",
+      "cat": "Hair Straighter & Styler",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Fragrance",
+      "cat": "Women Fragrances",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Fragrance",
+      "cat": "Men Fragrances",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Fragrance",
+      "cat": "Unisex Fragrances",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Make up",
+      "cat": "Face",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Make up",
+      "cat": " Lips",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Make up",
+      "cat": "Eyes",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Make up",
+      "cat": "Nails",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Make up",
+      "cat": "Makeup Accessories",
+      "keywords": [
+         "Brushes & Sets",
+         "Makeup Removers"
+      ]
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Skin Care",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Skin Care",
+      "cat": " ",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Skin Care",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Skin Care",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Skin Care",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Men's Care",
+      "cat": "Deodorants",
+      "keywords": []
+   },
+   {
+      "mCat": "Health and Beauty",
+      "sCat": "Men's Care",
+      "cat": "Shaving & Grooming",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Wearable",
+      "cat": "Smart watch",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Wearable",
+      "cat": "Virtual reality",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Cases & Covers",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Chargers & Adapters",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Data Cables",
+      "keywords": [
+         ""
+      ]
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Power Bank",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Bluetooth Speaker",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Selfie Sticks",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "VR & OTG",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mobile Accessories",
+      "cat": "Earphone",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Mouse",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Keyboard",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Pendrive",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "USB Port & Hub",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Headphones & Headsets",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Software & Antivirus",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Computer Accessories",
+      "cat": "Webcam",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mini USB Gadget",
+      "cat": "Mini USB Fan",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mini USB Gadget",
+      "cat": "Mini USB Fridge",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Mini USB Gadget",
+      "cat": "Mini USB Air Cooler",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Security Gadget",
+      "cat": "CC Camera",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Security Gadget",
+      "cat": "IP Camera",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Security Gadget",
+      "cat": "NVR/DVR",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Security Gadget",
+      "cat": "NVR/ DVR+ Camera",
+      "keywords": []
+   },
+   {
+      "mCat": "Gadget and Accessories",
+      "sCat": "Security Gadget",
+      "cat": "Metal Detector Gate",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Beverage",
+      "cat": "Coffee",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Beverage",
+      "cat": "Hot Chocolate Drinks",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Beverage",
+      "cat": "Powdered Drink Mixes",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Breakfast & Snacks",
+      "cat": "Biscuit & Crackers",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Breakfast & Snacks",
+      "cat": "Breakfast Cereals",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Breakfast & Snacks",
+      "cat": "Cereals & Oatmeals",
+      "keywords": [
+         ""
+      ]
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Breakfast & Snacks",
+      "cat": "Noodles & Pasta",
+      "keywords": [
+         ""
+      ]
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Cooking Oil & Ghee",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Herbs & Spices",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Sauce",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Flours",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Rice",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Condiments",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Cooking Ingredients",
+      "cat": "Pulses & Others",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Baking & Cooking",
+      "cat": "Canned Food",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Baking & Cooking",
+      "cat": "Condiment Dressing",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Baking & Cooking",
+      "cat": "Grains, Beans & Pulses",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Baking & Cooking",
+      "cat": "Instant & Ready-to-Eat",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Dairy Bakery",
+      "cat": "Dairy",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Dairy Bakery",
+      "cat": "Bakery & Breads",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Others Essentials",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Groceries",
+      "sCat": "Others Essentials",
+      "cat": "",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile",
+      "cat": "SUVs",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile",
+      "cat": "Sedans",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile",
+      "cat": "Trucks",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Auto Oils & Fluids",
+      "cat": "Additives",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Auto Oils & Fluids",
+      "cat": "Transmission Fluids",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile Accessories",
+      "cat": "Seat Covers & Accessories",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile Accessories",
+      "cat": "Floor Mats & Cargo Liners",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile Accessories",
+      "cat": "Air Fresheners",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile Accessories",
+      "cat": "Car Polishes & Waxes",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Automobile Accessories",
+      "cat": "Electronics Accessories",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Motorcycle Riding Gear",
+      "cat": "Helmet",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Motorcycle Riding Gear",
+      "cat": "Gloves",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Motor Parts & Accessories",
+      "cat": "Drivetrain & Transmission",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Motor Parts & Accessories",
+      "cat": "Oils & Fluids",
+      "keywords": []
+   },
+   {
+      "mCat": "Automotive & Motorbike",
+      "sCat": "Motor Parts & Accessories",
+      "cat": "Tools & Maintenance",
+      "keywords": []
+   }
+]
