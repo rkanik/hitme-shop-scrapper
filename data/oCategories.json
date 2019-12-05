@@ -1,0 +1,1402 @@
+[
+   {
+      "name": "Electronics",
+      "subCats": [
+         {
+            "name": "Mobile",
+            "cats": [
+               {
+                  "name": "Samsung",
+                  "keywords": []
+               },
+               {
+                  "name": "Xiaomi",
+                  "keywords": []
+               },
+               {
+                  "name": "Huawei",
+                  "keywords": []
+               },
+               {
+                  "name": "Honor",
+                  "keywords": []
+               },
+               {
+                  "name": "Lenovo",
+                  "keywords": []
+               },
+               {
+                  "name": "Iphone",
+                  "keywords": []
+               },
+               {
+                  "name": "Oppo",
+                  "keywords": []
+               },
+               {
+                  "name": "Vivo",
+                  "keywords": []
+               },
+               {
+                  "name": "Asus",
+                  "keywords": []
+               },
+               {
+                  "name": "Nokia",
+                  "keywords": []
+               },
+               {
+                  "name": "One Plus",
+                  "keywords": []
+               },
+               {
+                  "name": "HTC",
+                  "keywords": []
+               },
+               {
+                  "name": "LG",
+                  "keywords": []
+               },
+               {
+                  "name": "Symphony",
+                  "keywords": []
+               },
+               {
+                  "name": "Walton",
+                  "keywords": []
+               },
+               {
+                  "name": "Meizu",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Laptops and Notebooks",
+            "cats": [
+               {
+                  "name": "Razer",
+                  "keywords": []
+               },
+               {
+                  "name": "Apple",
+                  "keywords": []
+               },
+               {
+                  "name": "Asus",
+                  "keywords": []
+               },
+               {
+                  "name": "Acer",
+                  "keywords": []
+               },
+               {
+                  "name": "Dell",
+                  "keywords": []
+               },
+               {
+                  "name": "HP",
+                  "keywords": []
+               },
+               {
+                  "name": "Lenovo",
+                  "keywords": []
+               },
+               {
+                  "name": "Microsoft",
+                  "keywords": []
+               },
+               {
+                  "name": "iLife",
+                  "keywords": []
+               },
+               {
+                  "name": "MSI",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Camera",
+            "cats": [
+               {
+                  "name": "DSLR",
+                  "keywords": []
+               },
+               {
+                  "name": "Video Camera",
+                  "keywords": []
+               },
+               {
+                  "name": "Camera Lenses",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Computers Components",
+            "cats": [
+               {
+                  "name": "Desktop Casing ",
+                  "keywords": []
+               },
+               {
+                  "name": "Processor",
+                  "keywords": []
+               },
+               {
+                  "name": "Ram",
+                  "keywords": []
+               },
+               {
+                  "name": "Power Supply",
+                  "keywords": []
+               },
+               {
+                  "name": "Cpu Cooler",
+                  "keywords": []
+               },
+               {
+                  "name": "SSD",
+                  "keywords": []
+               },
+               {
+                  "name": "Hard Disk Drive",
+                  "keywords": []
+               },
+               {
+                  "name": "Monitor",
+                  "keywords": []
+               },
+               {
+                  "name": "Ups",
+                  "keywords": []
+               },
+               {
+                  "name": "Printer",
+                  "keywords": []
+               },
+               {
+                  "name": "Scanner",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Gaming & Console",
+            "cats": [
+               {
+                  "name": "PlayStation",
+                  "keywords": [
+                     "PlayStation ",
+                     "XBox",
+                     "PlayStation Games",
+                     "XBox Games",
+                     "Other Consoles"
+                  ]
+               },
+               {
+                  "name": "XBox",
+                  "keywords": []
+               },
+               {
+                  "name": "PlayStation Games",
+                  "keywords": []
+               },
+               {
+                  "name": "XBox Games",
+                  "keywords": []
+               },
+               {
+                  "name": "Other Consoles",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Men's Fashion",
+      "subCats": [
+         {
+            "name": "Shirts",
+            "cats": [
+               {
+                  "name": "Full Sleeve",
+                  "keywords": []
+               },
+               {
+                  "name": "Half Sleeve",
+                  "keywords": []
+               },
+               {
+                  "name": "Denim Shirt",
+                  "keywords": []
+               },
+               {
+                  "name": "Formal",
+                  "keywords": []
+               },
+               {
+                  "name": "Casual",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "T-Shirts",
+            "cats": [
+               {
+                  "name": "Solid Color",
+                  "keywords": []
+               },
+               {
+                  "name": "Unique Collection",
+                  "keywords": []
+               },
+               {
+                  "name": "TextDesign",
+                  "keywords": []
+               },
+               {
+                  "name": "Thematic",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Pants",
+            "cats": [
+               {
+                  "name": "Jeans",
+                  "keywords": []
+               },
+               {
+                  "name": "Twill/Gabardine",
+                  "keywords": []
+               },
+               {
+                  "name": "Formal",
+                  "keywords": []
+               },
+               {
+                  "name": "Chinos",
+                  "keywords": []
+               },
+               {
+                  "name": "Cargo & Shorts",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Polo-Shirts",
+            "cats": [
+               {
+                  "name": "Solid Color",
+                  "keywords": []
+               },
+               {
+                  "name": "Multicolor",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Punjabi",
+            "cats": [
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Suits & Blazer",
+            "cats": [
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Shoes",
+            "cats": [
+               {
+                  "name": "Sneakers",
+                  "keywords": []
+               },
+               {
+                  "name": "Sandals",
+                  "keywords": []
+               },
+               {
+                  "name": "Formal Shoes",
+                  "keywords": []
+               },
+               {
+                  "name": "Boots",
+                  "keywords": []
+               },
+               {
+                  "name": "Slip-Ons & Loafers",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Winter Clothing",
+            "cats": [
+               {
+                  "name": "Full Sleeve t-shirt",
+                  "keywords": []
+               },
+               {
+                  "name": "Jacket",
+                  "keywords": []
+               },
+               {
+                  "name": "Hoodie",
+                  "keywords": []
+               },
+               {
+                  "name": "Others",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Watch, Glass & Belt",
+            "cats": [
+               {
+                  "name": "Metal Chain Watch",
+                  "keywords": []
+               },
+               {
+                  "name": "Leather Strap",
+                  "keywords": []
+               },
+               {
+                  "name": "Original Brand Watch",
+                  "keywords": []
+               },
+               {
+                  "name": "Sports Watch",
+                  "keywords": []
+               },
+               {
+                  "name": "Glass",
+                  "keywords": []
+               },
+               {
+                  "name": "Belts",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Women's Fashion",
+      "subCats": [
+         {
+            "name": "Sharee",
+            "cats": [
+               {
+                  "name": "Cotton",
+                  "keywords": []
+               },
+               {
+                  "name": "Hand Painted",
+                  "keywords": []
+               },
+               {
+                  "name": "Boishakhai Saree",
+                  "keywords": []
+               },
+               {
+                  "name": "Taant",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Salwar Kamiz",
+            "cats": [
+               {
+                  "name": "Unstitched",
+                  "keywords": []
+               },
+               {
+                  "name": "Readymade",
+                  "keywords": []
+               },
+               {
+                  "name": "Deshi Boutique",
+                  "keywords": []
+               },
+               {
+                  "name": "Lawn",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Kurti",
+            "cats": [
+               {
+                  "name": "Long Kurti",
+                  "keywords": []
+               },
+               {
+                  "name": "Short Kurti",
+                  "keywords": []
+               },
+               {
+                  "name": "Kurti with Leggings/ Palazzo",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Wedding Wears",
+            "cats": [
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Shoes",
+            "cats": [
+               {
+                  "name": "Flat Sandals",
+                  "keywords": []
+               },
+               {
+                  "name": " Heels",
+                  "keywords": []
+               },
+               {
+                  "name": "Flat Shoes",
+                  "keywords": []
+               },
+               {
+                  "name": "Wedges ",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Watches & Glasses",
+            "cats": [
+               {
+                  "name": "Casual",
+                  "keywords": []
+               },
+               {
+                  "name": "Business",
+                  "keywords": []
+               },
+               {
+                  "name": "Fashion",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Accessories",
+            "cats": [
+               {
+                  "name": "Jewelleries",
+                  "keywords": []
+               },
+               {
+                  "name": "Belts",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Bag",
+            "cats": [
+               {
+                  "name": "Vanity Bag",
+                  "keywords": []
+               },
+               {
+                  "name": "Purse",
+                  "keywords": []
+               },
+               {
+                  "name": "Party Bag",
+                  "keywords": []
+               },
+               {
+                  "name": "Leather Bag",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Sleep and Longue",
+            "cats": [
+               {
+                  "name": "Bras",
+                  "keywords": []
+               },
+               {
+                  "name": "  Panties",
+                  "keywords": []
+               },
+               {
+                  "name": "Lingerie Sets",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Home Appliances",
+      "subCats": [
+         {
+            "name": "Televisions",
+            "cats": [
+               {
+                  "name": "LEd",
+                  "keywords": []
+               },
+               {
+                  "name": "Smart TV",
+                  "keywords": []
+               },
+               {
+                  "name": "OLED",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Electronics Appliances",
+            "cats": [
+               {
+                  "name": "Refrigerators",
+                  "keywords": []
+               },
+               {
+                  "name": "Freezers",
+                  "keywords": []
+               },
+               {
+                  "name": "Washing Machine",
+                  "keywords": []
+               },
+               {
+                  "name": "Microwave Oven",
+                  "keywords": []
+               },
+               {
+                  "name": "Fan & Lights",
+                  "keywords": []
+               },
+               {
+                  "name": "Water Purifiers",
+                  "keywords": []
+               },
+               {
+                  "name": "Air Purifiers",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Kitchen Appliances",
+            "cats": [
+               {
+                  "name": "Rice Cooker",
+                  "keywords": []
+               },
+               {
+                  "name": "Blenders",
+                  "keywords": []
+               },
+               {
+                  "name": "Electric Kettle",
+                  "keywords": []
+               },
+               {
+                  "name": "Induction Cooker/Fryer",
+                  "keywords": []
+               },
+               {
+                  "name": "Cookware set",
+                  "keywords": []
+               },
+               {
+                  "name": "Oven",
+                  "keywords": []
+               },
+               {
+                  "name": "Pressure Cooker",
+                  "keywords": []
+               },
+               {
+                  "name": "Coffee machine",
+                  "keywords": []
+               },
+               {
+                  "name": "Toaster",
+                  "keywords": []
+               },
+               {
+                  "name": "Sandwich Maker",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Furniture's",
+            "cats": [
+               {
+                  "name": "Almirah",
+                  "keywords": []
+               },
+               {
+                  "name": "Bed",
+                  "keywords": []
+               },
+               {
+                  "name": "Showcase",
+                  "keywords": []
+               },
+               {
+                  "name": "Dressing Table",
+                  "keywords": []
+               },
+               {
+                  "name": "Wardrobe",
+                  "keywords": []
+               },
+               {
+                  "name": "Office/Other",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Essentials",
+            "cats": [
+               {
+                  "name": "Mosquito Net",
+                  "keywords": []
+               },
+               {
+                  "name": "Sewing kit",
+                  "keywords": []
+               },
+               {
+                  "name": "Iron Table",
+                  "keywords": []
+               },
+               {
+                  "name": "Portable Cloth Storage",
+                  "keywords": []
+               },
+               {
+                  "name": "Box/Basket",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Tools & Machinery",
+            "cats": [
+               {
+                  "name": "Water Pump",
+                  "keywords": []
+               },
+               {
+                  "name": "Cleaning Machine",
+                  "keywords": []
+               },
+               {
+                  "name": "Hosepipe",
+                  "keywords": []
+               },
+               {
+                  "name": "Insect Repellent",
+                  "keywords": []
+               },
+               {
+                  "name": "Multi-function Tool",
+                  "keywords": []
+               },
+               {
+                  "name": "Drill Machine (Heavy)",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Home Decor",
+            "cats": [
+               {
+                  "name": "Bed Sheet & Cover",
+                  "keywords": []
+               },
+               {
+                  "name": "Pillow & Cushion",
+                  "keywords": []
+               },
+               {
+                  "name": "Carpet",
+                  "keywords": []
+               },
+               {
+                  "name": "Wall Hanging",
+                  "keywords": []
+               },
+               {
+                  "name": "Painting",
+                  "keywords": []
+               },
+               {
+                  "name": "Decoration Lamp & Shade",
+                  "keywords": []
+               },
+               {
+                  "name": "Flower Vase",
+                  "keywords": []
+               },
+               {
+                  "name": "Wall/ Designed Mirror",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Kitchen & Dining",
+            "cats": [
+               {
+                  "name": "  Storage & Organisation",
+                  "keywords": []
+               },
+               {
+                  "name": "Coffee & Tea",
+                  "keywords": []
+               },
+               {
+                  "name": "Cookware",
+                  "keywords": []
+               },
+               {
+                  "name": "Dinnerware",
+                  "keywords": []
+               },
+               {
+                  "name": "Kitchen & Table Linen",
+                  "keywords": []
+               },
+               {
+                  "name": " Kitchen Storage & Accessories",
+                  "keywords": []
+               },
+               {
+                  "name": "Serveware",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Laundry & Cleaning",
+            "cats": [
+               {
+                  "name": "Brushes, Sponges & Wipers",
+                  "keywords": []
+               },
+               {
+                  "name": "Brooms, Mops & Sweepers",
+                  "keywords": []
+               },
+               {
+                  "name": "Clothes Line & Drying Racks",
+                  "keywords": []
+               },
+               {
+                  "name": "Laundry Baskets & Hampers",
+                  "keywords": []
+               },
+               {
+                  "name": "Ironing Boards",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Stationary & Crafts",
+            "cats": [
+               {
+                  "name": "Gifts & Wrapping",
+                  "keywords": []
+               },
+               {
+                  "name": "Packaging & Cartons",
+                  "keywords": []
+               },
+               {
+                  "name": "Paper Products",
+                  "keywords": []
+               },
+               {
+                  "name": "School & Office Equipment",
+                  "keywords": []
+               },
+               {
+                  "name": "Art Supplies",
+                  "keywords": []
+               },
+               {
+                  "name": "Craft Supplies",
+                  "keywords": []
+               },
+               {
+                  "name": "Religious Items",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Health and Beauty",
+      "subCats": [
+         {
+            "name": "Bath and Beauty",
+            "cats": [
+               {
+                  "name": "Body & Massage Oils",
+                  "keywords": []
+               },
+               {
+                  "name": "Body Moisturizers",
+                  "keywords": []
+               },
+               {
+                  "name": "Body Scrubs",
+                  "keywords": []
+               },
+               {
+                  "name": "Body Soaps & Shower Gels",
+                  "keywords": []
+               },
+               {
+                  "name": "Foot Care",
+                  "keywords": []
+               },
+               {
+                  "name": "Hair Removal",
+                  "keywords": []
+               },
+               {
+                  "name": " Hand Care",
+                  "keywords": []
+               },
+               {
+                  "name": "Sun Care for Body",
+                  "keywords": []
+               },
+               {
+                  "name": "Bath & Body Accessories",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Hair care",
+            "cats": [
+               {
+                  "name": "Shampoo & Conditioner",
+                  "keywords": []
+               },
+               {
+                  "name": "Hair Treatments",
+                  "keywords": []
+               },
+               {
+                  "name": "Hair Care Accessories",
+                  "keywords": [
+                     "Hair Brushes & Combs"
+                  ]
+               },
+               {
+                  "name": "Hair Color/Gel/Spray ",
+                  "keywords": []
+               },
+               {
+                  "name": "Hair Straighter & Styler",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Fragrance",
+            "cats": [
+               {
+                  "name": "Women Fragrances",
+                  "keywords": []
+               },
+               {
+                  "name": "Men Fragrances",
+                  "keywords": []
+               },
+               {
+                  "name": "Unisex Fragrances",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Make up",
+            "cats": [
+               {
+                  "name": "Face",
+                  "keywords": []
+               },
+               {
+                  "name": " Lips",
+                  "keywords": []
+               },
+               {
+                  "name": "Eyes",
+                  "keywords": []
+               },
+               {
+                  "name": "Nails",
+                  "keywords": []
+               },
+               {
+                  "name": "Makeup Accessories",
+                  "keywords": [
+                     "Brushes & Sets",
+                     "Makeup Removers"
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Skin Care",
+            "cats": [
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": " ",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Men's Care",
+            "cats": [
+               {
+                  "name": "Deodorants",
+                  "keywords": []
+               },
+               {
+                  "name": "Shaving & Grooming",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Gadget and Accessories",
+      "subCats": [
+         {
+            "name": "Wearable",
+            "cats": [
+               {
+                  "name": "Smart watch",
+                  "keywords": []
+               },
+               {
+                  "name": "Virtual reality",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Mobile Accessories",
+            "cats": [
+               {
+                  "name": "Cases & Covers",
+                  "keywords": []
+               },
+               {
+                  "name": "Chargers & Adapters",
+                  "keywords": []
+               },
+               {
+                  "name": "Data Cables",
+                  "keywords": [
+                     ""
+                  ]
+               },
+               {
+                  "name": "Power Bank",
+                  "keywords": []
+               },
+               {
+                  "name": "Bluetooth Speaker",
+                  "keywords": []
+               },
+               {
+                  "name": "Selfie Sticks",
+                  "keywords": []
+               },
+               {
+                  "name": "VR & OTG",
+                  "keywords": []
+               },
+               {
+                  "name": "Earphone",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Computer Accessories",
+            "cats": [
+               {
+                  "name": "Mouse",
+                  "keywords": []
+               },
+               {
+                  "name": "Keyboard",
+                  "keywords": []
+               },
+               {
+                  "name": "Pendrive",
+                  "keywords": []
+               },
+               {
+                  "name": "USB Port & Hub",
+                  "keywords": []
+               },
+               {
+                  "name": "Headphones & Headsets",
+                  "keywords": []
+               },
+               {
+                  "name": "Software & Antivirus",
+                  "keywords": []
+               },
+               {
+                  "name": "Webcam",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Mini USB Gadget",
+            "cats": [
+               {
+                  "name": "Mini USB Fan",
+                  "keywords": []
+               },
+               {
+                  "name": "Mini USB Fridge",
+                  "keywords": []
+               },
+               {
+                  "name": "Mini USB Air Cooler",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Security Gadget",
+            "cats": [
+               {
+                  "name": "CC Camera",
+                  "keywords": []
+               },
+               {
+                  "name": "IP Camera",
+                  "keywords": []
+               },
+               {
+                  "name": "NVR/DVR",
+                  "keywords": []
+               },
+               {
+                  "name": "NVR/ DVR+ Camera",
+                  "keywords": []
+               },
+               {
+                  "name": "Metal Detector Gate",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Groceries",
+      "subCats": [
+         {
+            "name": "Beverage",
+            "cats": [
+               {
+                  "name": "Coffee",
+                  "keywords": []
+               },
+               {
+                  "name": "Hot Chocolate Drinks",
+                  "keywords": []
+               },
+               {
+                  "name": "Powdered Drink Mixes",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Breakfast & Snacks",
+            "cats": [
+               {
+                  "name": "Biscuit & Crackers",
+                  "keywords": []
+               },
+               {
+                  "name": "Breakfast Cereals",
+                  "keywords": []
+               },
+               {
+                  "name": "Cereals & Oatmeals",
+                  "keywords": [
+                     ""
+                  ]
+               },
+               {
+                  "name": "Noodles & Pasta",
+                  "keywords": [
+                     ""
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Cooking Ingredients",
+            "cats": [
+               {
+                  "name": "Cooking Oil & Ghee",
+                  "keywords": []
+               },
+               {
+                  "name": "Herbs & Spices",
+                  "keywords": []
+               },
+               {
+                  "name": "Sauce",
+                  "keywords": []
+               },
+               {
+                  "name": "Flours",
+                  "keywords": []
+               },
+               {
+                  "name": "Rice",
+                  "keywords": []
+               },
+               {
+                  "name": "Condiments",
+                  "keywords": []
+               },
+               {
+                  "name": "Pulses & Others",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Baking & Cooking",
+            "cats": [
+               {
+                  "name": "Canned Food",
+                  "keywords": []
+               },
+               {
+                  "name": "Condiment Dressing",
+                  "keywords": []
+               },
+               {
+                  "name": "Grains, Beans & Pulses",
+                  "keywords": []
+               },
+               {
+                  "name": "Instant & Ready-to-Eat",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Dairy Bakery",
+            "cats": [
+               {
+                  "name": "Dairy",
+                  "keywords": []
+               },
+               {
+                  "name": "Bakery & Breads",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Others Essentials",
+            "cats": [
+               {
+                  "name": "",
+                  "keywords": []
+               },
+               {
+                  "name": "",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "Automotive & Motorbike",
+      "subCats": [
+         {
+            "name": "Automobile",
+            "cats": [
+               {
+                  "name": "SUVs",
+                  "keywords": []
+               },
+               {
+                  "name": "Sedans",
+                  "keywords": []
+               },
+               {
+                  "name": "Trucks",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Auto Oils & Fluids",
+            "cats": [
+               {
+                  "name": "Additives",
+                  "keywords": []
+               },
+               {
+                  "name": "Transmission Fluids",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Automobile Accessories",
+            "cats": [
+               {
+                  "name": "Seat Covers & Accessories",
+                  "keywords": []
+               },
+               {
+                  "name": "Floor Mats & Cargo Liners",
+                  "keywords": []
+               },
+               {
+                  "name": "Air Fresheners",
+                  "keywords": []
+               },
+               {
+                  "name": "Car Polishes & Waxes",
+                  "keywords": []
+               },
+               {
+                  "name": "Electronics Accessories",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Motorcycle Riding Gear",
+            "cats": [
+               {
+                  "name": "Helmet",
+                  "keywords": []
+               },
+               {
+                  "name": "Gloves",
+                  "keywords": []
+               }
+            ]
+         },
+         {
+            "name": "Motor Parts & Accessories",
+            "cats": [
+               {
+                  "name": "Drivetrain & Transmission",
+                  "keywords": []
+               },
+               {
+                  "name": "Oils & Fluids",
+                  "keywords": []
+               },
+               {
+                  "name": "Tools & Maintenance",
+                  "keywords": []
+               }
+            ]
+         }
+      ]
+   }
+]
